@@ -9,7 +9,7 @@ class Firebase{
 
     init = () => {
         firebase.initializeApp({
-            apiKey: "AIzaSyDOgslpanEHILMhIkXs6vcLXQe0TTm6V3A",
+            apiKey: "Your api key",
             authDomain: "reactnativebootcamp-7f054.firebaseapp.com",
             databaseURL: "https://reactnativebootcamp-7f054.firebaseio.com",
             projectId: "reactnativebootcamp-7f054",
